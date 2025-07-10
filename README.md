@@ -1,6 +1,6 @@
 对于 iPhone 用户来说，Apple 日历虽然简洁易用，但其对节假日、文化节庆和特殊日期的支持却常常不够全面。为了填补这些空缺，我们为你准备了 AppleICS日历增强包，让你的日历更加丰富，节日更加贴心，涵盖了从常规节日到佛教节日，再到汉藏文化的所有内容！
 
-![WX20250120-231250@2x](https://github.com/user-attachments/assets/1f72ee75-345a-41cc-b0b4-9646b7bd241c)
+![wechat_2025-07-10_152729_648](https://github.com/user-attachments/assets/f0cc0367-829a-49ee-afef-5a682821e62f)
 
 
 全方位节日订阅合集，满足你多样的需求
