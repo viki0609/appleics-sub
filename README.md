@@ -24,7 +24,7 @@ AppleICS 通过 Apple 日历订阅服务，帮助您轻松掌握节假日、重�
 刻度人生仅提供日历订阅相关数据，部分数据基于算法生成，不保证完全准确。
 若遇到任何问题，请通过官方渠道反馈。
 
-![Uploading wechat_2025-08-21_211400_293.png…]()
+<img width="2540" height="1518" alt="wechat_2025-08-21_211400_293" src="https://github.com/user-attachments/assets/26b53993-73d2-40d1-851e-6c3b462e63f5" />
 
 https://www.appleics.cn
 
